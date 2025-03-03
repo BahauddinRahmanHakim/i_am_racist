@@ -2,6 +2,10 @@
 
 I Wanna Be a Racist.
 
+[23091397093 Bahauddin Rahman Hakim]    (GitHub : https://github.com/BahauddinRahmanHakim)
+[23091397087_Dickrullah Brilian Akbar]  (GitHub : https://github.com/Dickrullah)
+[23091397080_fathir rahma dhani]        (GitHub : https://github.com/fatni2)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
